@@ -1,0 +1,20 @@
+{
+  "name": "tpl-cli",
+  "version": "1.0.0",
+  "description": "用于创建项目模板代码",
+  "main": "index.js",
+  "author": "linjiamin",
+  "license": "MIT",
+  "bin": {
+    "mfe-tpl": "bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^5.0.0",
+    "fs-extra": "^9.0.1",
+    "lerna": "^3.19.0",
+    "metalsmith": "^2.3.0",
+    "minimist": "^1.2.0",
+    "chalk": "^3.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
