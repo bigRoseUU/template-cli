@@ -1,4 +1,4 @@
-/** @format */
+#!/usr/bin/env node
 
 const { program } = require('commander')
 const appInfo = require('../package.json')
