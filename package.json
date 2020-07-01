@@ -1,5 +1,5 @@
 {
-  "name": "template-cli",
+  "name": "conf-tpl-cli",
   "version": "1.0.0",
   "description": "用于创建项目模板代码",
   "main": "src/index.js",
