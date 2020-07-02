@@ -6,7 +6,14 @@
   "author": "linjiamin",
   "license": "MIT",
   "bin": {
-    "tpl-cli": "bin/index.js"
+    "conf-tpl-cli": "bin/index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigRoseUU/template-cli"
   },
   "dependencies": {
     "chalk": "^3.0.0",

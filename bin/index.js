@@ -16,7 +16,6 @@ program
   .description('create code by template')
   .action(() => {
     create(tmpConfig)
-    console.log('create command called')
   })
 
 program.parse(process.argv)
