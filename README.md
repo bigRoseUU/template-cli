@@ -15,7 +15,7 @@
 ## 安装
 
 ```
-npm install install conf-tpl-cli -g
+npm install conf-tpl-cli -g
 # OR
 yarn global add conf-tpl-cli
 ```
